@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+.card { border-radius: 12px; }
+.project-card { transition: transform .15s ease, box-shadow .15s ease; }
+.project-card:hover { transform: translateY(-6px); box-shadow: 0 10px 25px rgba(0,0,0,0.08); }
